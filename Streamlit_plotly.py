@@ -12,7 +12,7 @@ import plotly.express as px
 
 
 # Cargar y ver la base 
-dire = 'C:/Users/marur/Documents/GitHub/Ventas_autos/Bases/'
+dire = 'Bases/'
 #base = pd.read_csv(dire+"raiavl_venta_mensual_tr_cifra_2023.csv")
 #base.head()
 for year in range(2019, 2025, 1):
